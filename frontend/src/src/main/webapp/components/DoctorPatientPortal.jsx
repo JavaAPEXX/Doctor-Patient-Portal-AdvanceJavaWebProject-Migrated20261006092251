@@ -1,0 +1,1 @@
+I’m missing the actual component code that needs to be fixed. Could you please paste the full generated React component for `user_appointment.jsp` so I can apply the required corrections?
